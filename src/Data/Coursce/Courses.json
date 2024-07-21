@@ -1,0 +1,233 @@
+{
+"cors":[
+ {
+  "COURSE": "GRADUATE",
+  "Column2": "UNDERGRADUATE"
+ },
+ {
+  "COURSE": "Name",
+  "Column2": "African and African American Studies"
+ },
+ {
+  "COURSE": "African and African American Studies",
+  "Column2": "Anthropology"
+ },
+ {
+  "COURSE": "American Studies",
+  "Column2": "Applied Mathematics"
+ },
+ {
+  "COURSE": "Anthropology",
+  "Column2": "Art, Film, and Visual Studies"
+ },
+ {
+  "COURSE": "Applied Computation",
+  "Column2": "Astrophysics"
+ },
+ {
+  "COURSE": "Applied Mathematics",
+  "Column2": "Bioengineering"
+ },
+ {
+  "COURSE": "Applied Physics",
+  "Column2": "Biology"
+ },
+ {
+  "COURSE": "Architecture",
+  "Column2": "Biomedical Engineering"
+ },
+ {
+  "COURSE": "Architecture, Landscape Architecture, and Urban Planning",
+  "Column2": "Business Administration and Management"
+ },
+ {
+  "COURSE": "Astronomy",
+  "Column2": "Chemical and Physical Biology"
+ },
+ {
+  "COURSE": "Bioengineering",
+  "Column2": "Chemistry"
+ },
+ {
+  "COURSE": "Bioethics",
+  "Column2": "Chemistry and Physics"
+ },
+ {
+  "COURSE": "Biological and Biomedical Sciences",
+  "Column2": "Classics"
+ },
+ {
+  "COURSE": "Biological Sciences in Public Health",
+  "Column2": "Comparative Literature"
+ },
+ {
+  "COURSE": "Biology",
+  "Column2": "Comparative Study of Religion"
+ },
+ {
+  "COURSE": "Biomedical Informatics",
+  "Column2": "Computer Science"
+ },
+ {
+  "COURSE": "Biophysics",
+  "Column2": "Earth and Planetary Sciences"
+ },
+ {
+  "COURSE": "Biostatistics",
+  "Column2": "East Asian Studies"
+ },
+ {
+  "COURSE": "Biotechnology",
+  "Column2": "Economics"
+ },
+ {
+  "COURSE": "Biotechnology: Life Sciences",
+  "Column2": "Electrical Engineering"
+ },
+ {
+  "COURSE": "Business Administration",
+  "Column2": "English"
+ },
+ {
+  "COURSE": "Business Economics",
+  "Column2": "Environmental Science and Engineering"
+ },
+ {
+  "COURSE": "Celtic Languages and Literatures",
+  "Column2": "Environmental Science and Public Policy"
+ },
+ {
+  "COURSE": "Chemical Biology",
+  "Column2": "Environmental Studies"
+ },
+ {
+  "COURSE": "Chemical Physics",
+  "Column2": "Folklore and Mythology"
+ },
+ {
+  "COURSE": "Chemistry and Chemical Biology",
+  "Column2": "Germanic Languages and Literatures"
+ },
+ {
+  "COURSE": "Classics",
+  "Column2": "Government"
+ },
+ {
+  "COURSE": "Clinical Investigation",
+  "Column2": "History"
+ },
+ {
+  "COURSE": "Clinical Service Operations",
+  "Column2": "History and Literature"
+ },
+ {
+  "COURSE": "Comparative Literature",
+  "Column2": "History and Science"
+ },
+ {
+  "COURSE": "Computer Science",
+  "Column2": "History of Art and Architecture"
+ },
+ {
+  "COURSE": "Creative Writing and Literature",
+  "Column2": "Human Developmental and Regenerative Biology"
+ },
+ {
+  "COURSE": "Cybersecurity",
+  "Column2": "Integrative Biology"
+ },
+ {
+  "COURSE": "Data Science",
+  "Column2": "International Relations"
+ },
+ {
+  "COURSE": "Dental Education",
+  "Column2": "Linguistics"
+ },
+ {
+  "COURSE": "Dental Medicine",
+  "Column2": "Literature"
+ },
+ {
+  "COURSE": "Dental Public Health",
+  "Column2": "Materials Science and Mechanical Engineering"
+ },
+ {
+  "COURSE": "Design",
+  "Column2": "Mathematics"
+ },
+ {
+  "COURSE": "Design Engineering",
+  "Column2": "Mechanical Engineering"
+ },
+ {
+  "COURSE": "Design Studies",
+  "Column2": "Molecular and Cellular Biology"
+ },
+ {
+  "COURSE": "Digital Media Design",
+  "Column2": "Music"
+ },
+ {
+  "COURSE": "Divinity",
+  "Column2": "Near Eastern Languages and Civilizations"
+ },
+ {
+  "COURSE": "Earth and Planetary Sciences",
+  "Column2": "Neuroscience"
+ },
+ {
+  "COURSE": "East Asian Languages and Civilizations",
+  "Column2": "Philosophy"
+ },
+ {
+  "COURSE": "Economics",
+  "Column2": "Physics"
+ },
+ {
+  "COURSE": "Education",
+  "Column2": "Psychology"
+ },
+ {
+  "COURSE": "Education Leadership",
+  "Column2": "Religion"
+ },
+ {
+  "COURSE": "Education Leadership (online)",
+  "Column2": "Romance Languages and Literatures"
+ },
+ {
+  "COURSE": "Education Leadership, Organizations, and Entrepreneurship",
+  "Column2": "Slavic Languages and Literatures"
+ },
+ {
+  "COURSE": "Education Policy and Analysis",
+  "Column2": "Social Studies"
+ },
+ {
+  "COURSE": "Electrical Engineering",
+  "Column2": "Sociology"
+ },
+ {
+  "COURSE": "Endodontics",
+  "Column2": "South Asian Studies"
+ },
+ {
+  "COURSE": "English",
+  "Column2": "Special Concentrations"
+ },
+ {
+  "COURSE": "Environmental Science and Engineering",
+  "Column2": "Statistics"
+ },
+ {
+  "COURSE": "Film and Visual Studies",
+  "Column2": "Theater, Dance, & Media"
+ },
+ {
+  "COURSE": "Finance",
+  "Column2": "Women, Gender, and Sexuality"
+ }
+
+]
+}

@@ -1,0 +1,335 @@
+{
+"Sheet1":[
+ {
+  "Column1": "TERM",
+  "Column2": "TITLE",
+  "Column3": "TITLE",
+  "Column4": "GRADE",
+  "Column5": "CREDITS"
+ },
+ {
+  "SEM": "SEM - 1"
+ },
+ {
+  "TERM": "Fall 2016",
+  "TITLE": "English",
+  "GRADE": "A-",
+  "CREDITS": 3
+ },
+ {
+  "TERM": "Fall 2016",
+  "TITLE": "Mathematics I",
+  "GRADE": "A",
+  "CREDITS": 3
+ },
+ {
+  "TERM": "Fall 2016",
+  "TITLE": "Applied Physics",
+  "GRADE": "B",
+  "CREDITS": 4
+ },
+ {
+  "TERM": "Fall 2016",
+  "TITLE": "C & Data Structures",
+  "GRADE": "C+",
+  "CREDITS": 3
+ },
+ {
+  "TERM": "Fall 2016",
+  "TITLE": "Engineering Drawing Practice",
+  "GRADE": "B-",
+  "CREDITS": 3
+ },
+ {
+  "TERM": "Fall 2016",
+  "TITLE": "Semiconductor Devices and Circuits",
+  "GRADE": "B",
+  "CREDITS": 4
+ },
+ {
+  "TERM": "Fall 2016",
+  "TITLE": "Computers and Information Technology",
+  "GRADE": "B+",
+  "CREDITS": 3
+ },
+ {
+  "SEM": "SEM - 2 "
+ },
+ {
+  "TERM": "Sprint 2016",
+  "TITLE": "Mathematics II",
+  "GRADE": "C+",
+  "CREDITS": 4
+ },
+ {
+  "TERM": "Sprint 2016",
+  "TITLE": "Discrete Structures",
+  "GRADE": "C-",
+  "CREDITS": 3
+ },
+ {
+  "TERM": "Sprint 2016",
+  "TITLE": "Data Processing",
+  "GRADE": "B+",
+  "CREDITS": 4
+ },
+ {
+  "TERM": "Sprint 2016",
+  "TITLE": "Logic Theory",
+  "GRADE": "A-",
+  "CREDITS": 3
+ },
+ {
+  "TERM": "Sprint 2016",
+  "TITLE": "IC Application",
+  "GRADE": "B-",
+  "CREDITS": 4
+ },
+ {
+  "TERM": "Sprint 2016",
+  "TITLE": "Managerial Economics and Accountancy",
+  "GRADE": "B+",
+  "CREDITS": 3
+ },
+ {
+  "TERM": "Sprint 2016",
+  "TITLE": "Linear and Digital IC0 Applications",
+  "GRADE": "B",
+  "CREDITS": 4
+ },
+ {
+  "SEM": "SEM - 3"
+ },
+ {
+  "TERM": "Fall 2017",
+  "TITLE": "Probability and Statistics",
+  "GRADE": "D",
+  "CREDITS": 3
+ },
+ {
+  "TERM": "Fall 2017",
+  "TITLE": "Electrical Technology",
+  "GRADE": "B+",
+  "CREDITS": 4
+ },
+ {
+  "TERM": "Fall 2017",
+  "TITLE": "Computer Organization",
+  "GRADE": "B",
+  "CREDITS": 4
+ },
+ {
+  "TERM": "Fall 2017",
+  "TITLE": "Operating Systems",
+  "GRADE": "B",
+  "CREDITS": 4
+ },
+ {
+  "TERM": "Fall 2017",
+  "TITLE": "Design and Analysis of Algorithms",
+  "GRADE": "B",
+  "CREDITS": 3
+ },
+ {
+  "TERM": "Fall 2017",
+  "TITLE": "Object-Oriented Programming",
+  "GRADE": "B",
+  "CREDITS": 3
+ },
+ {
+  "SEM": "SEM - 4"
+ },
+ {
+  "TERM": "Sprint 2017",
+  "TITLE": "Operations Research",
+  "GRADE": "A",
+  "CREDITS": 4
+ },
+ {
+  "TERM": "Sprint 2017",
+  "TITLE": "Data Communications",
+  "GRADE": "B+",
+  "CREDITS": 3
+ },
+ {
+  "TERM": "Sprint 2017",
+  "TITLE": "Theory of Computation",
+  "GRADE": "A",
+  "CREDITS": 3
+ },
+ {
+  "TERM": "Sprint 2017",
+  "TITLE": "System Programming",
+  "GRADE": "A",
+  "CREDITS": 3
+ },
+ {
+  "TERM": "Sprint 2017",
+  "TITLE": "Interfacing Through Microprocessors",
+  "GRADE": "D",
+  "CREDITS": 3
+ },
+ {
+  "TERM": "Sprint 2017",
+  "TITLE": "Principles of Programming Languages",
+  "GRADE": "C+",
+  "CREDITS": 4
+ },
+ {
+  "SEM": "SEM - 5"
+ },
+ {
+  "TERM": "Fall 2018",
+  "TITLE": "Computer Architecture",
+  "GRADE": "C+",
+  "CREDITS": 3
+ },
+ {
+  "TERM": "Fall 2018",
+  "TITLE": "Data Mining",
+  "GRADE": "C",
+  "CREDITS": 4
+ },
+ {
+  "TERM": "Fall 2018",
+  "TITLE": "Computer Network",
+  "GRADE": "C",
+  "CREDITS": 3
+ },
+ {
+  "TERM": "Fall 2018",
+  "TITLE": "Neuro-Fuzzy",
+  "GRADE": "B+",
+  "CREDITS": 4
+ },
+ {
+  "TERM": "Fall 2018",
+  "TITLE": "Data structures and Algorithms",
+  "GRADE": "C-",
+  "CREDITS": 3
+ },
+ {
+  "TERM": "Fall 2018",
+  "TITLE": "Database Information System",
+  "GRADE": "D",
+  "CREDITS": 3
+ },
+ {
+  "SEM": "SEM - 6"
+ },
+ {
+  "TERM": "Sprint 2018",
+  "TITLE": "Artificial Intelligence",
+  "GRADE": "B",
+  "CREDITS": 3
+ },
+ {
+  "TERM": "Sprint 2018",
+  "TITLE": "Wireless Network",
+  "GRADE": "C-",
+  "CREDITS": 4
+ },
+ {
+  "TERM": "Sprint 2018",
+  "TITLE": "Compiler Design",
+  "GRADE": "C+",
+  "CREDITS": 3
+ },
+ {
+  "TERM": "Sprint 2018",
+  "TITLE": "Computer Graphics",
+  "GRADE": "A",
+  "CREDITS": 4
+ },
+ {
+  "TERM": "Sprint 2018",
+  "TITLE": "Information Storage Management",
+  "GRADE": "B-",
+  "CREDITS": 4
+ },
+ {
+  "TERM": "Sprint 2018",
+  "TITLE": "Implementation of Programming Languages",
+  "GRADE": "B",
+  "CREDITS": 4
+ },
+ {
+  "SEM": "SEM - 7"
+ },
+ {
+  "TERM": "Fall 2019",
+  "TITLE": "Software Engineering",
+  "GRADE": "D",
+  "CREDITS": 3
+ },
+ {
+  "TERM": "Fall 2019",
+  "TITLE": "Distributed Systems",
+  "GRADE": "B-",
+  "CREDITS": 4
+ },
+ {
+  "TERM": "Fall 2019",
+  "TITLE": "Java Programming",
+  "GRADE": "C-",
+  "CREDITS": 3
+ },
+ {
+  "TERM": "Fall 2019",
+  "TITLE": "Image Processing",
+  "GRADE": "B+",
+  "CREDITS": 3
+ },
+ {
+  "TERM": "Fall 2019",
+  "TITLE": "Neural Networks",
+  "GRADE": "C-",
+  "CREDITS": 4
+ },
+ {
+  "TERM": "Fall 2019",
+  "TITLE": "Visual Programming",
+  "GRADE": "F",
+  "CREDITS": 4
+ },
+ {
+  "SEM": "SEM - 8"
+ },
+ {
+  "TERM": "Sprint 2019",
+  "TITLE": "Simulation and Modeling",
+  "GRADE": "A",
+  "CREDITS": 4
+ },
+ {
+  "TERM": "Sprint 2019",
+  "TITLE": "Pattern Recognition",
+  "GRADE": "B-",
+  "CREDITS": 3
+ },
+ {
+  "TERM": "Sprint 2019",
+  "TITLE": "Mobile Computing",
+  "GRADE": "B-",
+  "CREDITS": 4
+ },
+ {
+  "TERM": "Sprint 2019",
+  "TITLE": "Computer Communication",
+  "GRADE": "B+",
+  "CREDITS": 3
+ },
+ {
+  "TERM": "Sprint 2019",
+  "TITLE": "Project Management",
+  "GRADE": "C+",
+  "CREDITS": 4
+ },
+ {
+  "TERM": "Sprint 2019",
+  "TITLE": "Formal Languages and Automata Theory",
+  "GRADE": "A",
+  "CREDITS": 3
+ }
+]
+}

@@ -40,10 +40,16 @@ export const Footer = () => {
                         </li>
 
                         <li>
-                          <Link to="/study" role="button">
-                            Study
+                          <Link to="/admission" role="button">
+                          Admission
                           </Link>
                         </li>
+                        <li>
+                          <Link to="/transcript" role="button">
+                          Transcript
+                          </Link>
+                        </li>
+                    
 
                         <li>
                           <Link to="/transfer" role="button">
