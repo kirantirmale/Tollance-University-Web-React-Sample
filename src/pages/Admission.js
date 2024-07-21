@@ -2,6 +2,8 @@ import React, { useState, useCallback } from 'react';
 import { useDropzone } from 'react-dropzone';
 import { Breadcrumb } from '../components/common/Breadcrumb';
 import CourseData from '../Data/Coursce/Courses.json';
+import { ToastContainer, toast } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css'; // Import CSS for toastify
 
 export const Admission = () => {
     const [formData, setFormData] = useState({
@@ -48,6 +50,9 @@ export const Admission = () => {
             qualification: null,
             remarks: ''
         });
+
+        // Show success toast
+        toast.success('Data submitted successfully!');
     };
 
     const handleCancel = () => {
@@ -64,6 +69,7 @@ export const Admission = () => {
             remarks: ''
         });
         setShowConfirmDialog(false);
+        toast.error('Data Not  submitted !');
     };
 
     const handleDismissCancel = () => {
@@ -241,6 +247,9 @@ export const Admission = () => {
                     </div>
                 </div>
             )}
+
+            {/* Toast Container */}
+            <ToastContainer />
         </div>
     );
 };
